@@ -1,0 +1,3 @@
+# Open Zoom in browser
+
+This add-on for firefox replace url paramethers and open zoom.us links in browser web application insted open in desktop application. This mean you don't need to have zoom desktop application at all. No any additional tracking, and all is legal.
