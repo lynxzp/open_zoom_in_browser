@@ -1,3 +1,11 @@
 # Open Zoom in browser
 
 This add-on for firefox replace url paramethers and open zoom.us links in browser web application insted open in desktop application. This mean you don't need to have zoom desktop application at all. No any additional tracking, and all is legal.
+
+## Install
+
+Open page about:debugging
+
+This Firefox -> Load Add-on
+
+and select zip file from https://github.com/lynxzp/open_zoom_in_browser/releases[release page]
